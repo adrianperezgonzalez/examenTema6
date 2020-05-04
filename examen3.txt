@@ -1,0 +1,3 @@
+rLa solucion funcina porque comparamos si el numero introducido es mayor o igual que 5, y con el bucle restamos de 5 en 5 hasta que el numero sea menor que 5.
+
+La solucion 2 también funciona porque hacemos un bucle y hasta que el numero introducido haciendo la resta de 5 en 5 sea menor o igual que 0 no acaba el bucle, y al tener el primer if que comprueba si el numero despues de la resta de 5 es igual a 0 sale el mensaje pero si se pasa o no es igual a 0 no saldría nada y por tanto no es divisible entre 5
